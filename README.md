@@ -100,7 +100,7 @@ Explore AI-assisted security analysis, automation, and smarter workflows.
 
 <div align="center">
 
-## `03 // TECHNICAL ARSENAL`
+## `03 // TECHNICAL SKILLS & TOOLS`
 
 ### SECURITY OPERATIONS
 
