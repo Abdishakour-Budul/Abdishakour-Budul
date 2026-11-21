@@ -1,36 +1,31 @@
-```markdown
+
 <div align="center">
 
-<!-- ═══════════════ CYBERSECURITY HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=ABDISHakOUR%20BUDUL&fontColor=E6FF00&fontSize=42&animation=fadeIn&stroke=00FF9C&strokeWidth=1"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0D1117&text=ABDISHakOUR%20BUDUL&fontColor=E6FF00&fontSize=42&fontAlign=50&fontAlignY=40&animation=fadeIn&stroke=00FF9C&strokeWidth=1"/>
-
-<a href="https://github.com/Abdishakour-Budul">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=CYBERSECURITY+%7C+SOC+ANALYST;BLUE+TEAM+%7C+THREAT+DETECTION;PROTECT+%E2%80%A2+DETECT+%E2%80%A2+DEFEND;LEARN+%E2%80%A2+BUILD+%E2%80%A2+INVESTIGATE;AI+%2B+CYBERSECURITY"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING_&_BUILDING-00FF9C?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-E6FF00?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-SECURITY_OPERATIONS-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=CYBERSECURITY+%7C+SOC+ANALYST;PROTECT+%E2%80%A2+DETECT+%E2%80%A2+DEFEND;BLUE+TEAM+%7C+THREAT+DETECTION;AI+%2B+CYBERSECURITY"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🛡️_BLUE_TEAM-DEFENSIVE_SECURITY-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AI-SECURITY-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SOC_ANALYST-E6FF00?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-00FF9C?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## `SYSTEM IDENTITY`
-
-</div>
+## SYSTEM IDENTITY
 
 ```text
+NAME       : ABDISHAKOUR BUDUL
+SPECIALTY  : CYBERSECURITY
+FOCUS      : SOC ANALYST / BLUE TEAM
+MISSION    : PROTECT • DETECT • DEFEND
+AI         : CYBERSECURITY & AUTOMATION
+```
+
+Welcome to my cybersecurity portfolio. I focus on defensive security, threat detection, security operations, and practical investigations.
+
 ┌─────────────────────────────────────────────────────────────┐
 │                   SECURITY PROFILE                         │
 ├─────────────────────────────────────────────────────────────┤
